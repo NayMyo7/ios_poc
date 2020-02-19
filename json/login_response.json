@@ -1,0 +1,47 @@
+{
+    "RespCode": "000",
+    "RespDescription": "Success.",
+    "UserName": "Xan001",
+    "lstAccount": [
+        {
+            "AccountID": "0011010700000114",           
+            "AccountType": "SBA",
+            "AccountDesc": "Saving Account",
+            "Currency": "MMK",
+            "BranchCode": "BAYINTNAUNG BRANCH",            
+            "AvailableBal": "9,097,636.99"           
+        },
+        {
+            "AccountID": "0009010100002751",            
+            "AccountType": "CAA",
+            "AccountDesc": "Current Account",
+            "Currency": "MMK",
+            "BranchCode": "MANDALAY(1)",
+            "AvailableBal": "99,943,997.00"        
+        },
+        {
+            "AccountID": "0011010100000217",
+            "AccountType": "CAA",
+            "AccountDesc": "Current Account",
+            "Currency": "MMK",
+            "BranchCode": "BAYINTNAUNG BRANCH",
+            "AvailableBal": "9,867,956.65"            
+        },
+        {
+            "AccountID": "0011010300002174",            
+            "AccountType": "TDA",
+            "AccountDesc": "Term Deposit Account",
+            "Currency": "MMK",            
+            "BranchCode": "BAYINTNAUNG BRANCH",           
+            "AvailableBal": "10,000,000.00"           
+        },
+        {            
+            "AccountID": "0011010300002181",            
+            "AccountType": "TDA",
+            "AccountDesc": "Term Deposit Account",
+            "Currency": "MMK",          
+            "BranchCode": "BAYINTNAUNG BRANCH",        
+            "AvailableBal": "10,000,000.00"           
+        }
+    ]
+}

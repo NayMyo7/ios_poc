@@ -1,0 +1,13 @@
+{
+    "TransactionID": null,
+    "TransactionStatus": "0",
+    "ErrorCode": null,
+    "ErrorMessage": null,
+    "PartnerAmount": 965,
+    "TransactionAmount": 1000,
+    "Detail": "{\"Deno\":1000.0,\"MobileNumber\":\"09421022637\"}",
+    "EBARefNo": "1972764",
+    "PartnerRefNo": "TPX2002191053547",
+    "RespCode": "000",
+    "RespDescription": "Your transaction has been successfully completed."
+}
