@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "message": "Your attendance has been retrieved successfully.",
+    "data": [
+        {
+            "id": 1,
+            "date": "2020-04-02",
+            "check_in_time": "09:00:00",
+            "check_in_location_id": 1,
+            "check_in_location_name": "XAN",
+            "check_out_time": "18:00:00",
+            "check_out_location_id": null,
+            "check_out_location_name": "MFTB"
+        },
+        {
+            "id": 1,
+            "date": "2020-04-03",
+            "check_in_time": "09:00:00",
+            "check_in_location_id": 1,
+            "check_in_location_name": "XAN",
+            "check_out_time": "18:00:00",
+            "check_out_location_id": null,
+            "check_out_location_name": "MFTB"
+        },
+        {
+            "id": 1,
+            "date": "2020-04-04",
+            "check_in_time": "09:00:00",
+            "check_in_location_id": 1,
+            "check_in_location_name": "XAN",
+            "check_out_time": "18:00:00",
+            "check_out_location_id": null,
+            "check_out_location_name": "MFTB"
+        }
+    ]
+}

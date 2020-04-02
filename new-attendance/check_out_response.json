@@ -1,0 +1,16 @@
+{
+    "status": "success",
+    "message": "Check out successful.",
+    "data": {
+        "user_id": 1,
+        "device_id": "862966045891560",
+        "check_out_date": "2020-04-02",
+        "check_out_time": "18:00:00",
+        "check_out_location_id": null,
+        "check_out_location_name": "MFTB",
+        "attendance_type": "FREE",
+        "latitude": 16.783665,
+        "longitude": 96.15501,
+        "description": "Client Meeting"
+    }
+}

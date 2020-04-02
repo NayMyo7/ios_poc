@@ -1,0 +1,12 @@
+{
+    "status": "success",
+    "message": "Your home location has been registered successfully.",
+    "data": {
+        "id": 10,
+        "name": "Nay Myo's Home",
+        "latitude": 16.783665,
+        "logitude": 96.15501,
+        "type": "HOME",
+        "is_active": true
+    }
+}

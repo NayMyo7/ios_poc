@@ -1,0 +1,36 @@
+{
+    "status": "success",
+    "message": "Your attendance detail has been retrieved successfully.",
+    "data": [
+        {
+            "id": 1,
+            "attendance_action": "CHECK_IN",
+            "attendance_type": "SPECIFIC",
+            "time": "09:00:00",
+            "location_name": "XAN",
+            "latitude": 16.783665,
+            "longitude": 96.15501,
+            "description": null
+        },
+        {
+            "id": 2,
+            "attendance_action": "CHECK_OUT",
+            "attendance_type": "SPECIFIC",
+            "time": "12:00:00",
+            "location_name": "XAN",
+            "latitude": 16.783665,
+            "longitude": 96.15501,
+            "description": null
+        },
+        {
+            "id": 3,
+            "attendance_action": "CHECK_OUT",
+            "attendance_type": "FREE",
+            "time": "18:00:00",
+            "location_name": "MFTB",
+            "latitude": 16.783665,
+            "longitude": 96.15501,
+            "description": "Client Meeting"
+        }
+    ]
+}
