@@ -1,0 +1,41 @@
+{
+	"status": "success",
+	"message": "User login successful.",
+	"data": {
+		"token": {
+			"token_type": "Bearer",
+			"access_token": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiIxIiwiaWF0IjoxNTg1ODE5NDY4LCJleHAiOjE1ODY0MjQyNjh9.6khPmAoUMTf-GejUWPd4OEQyYfCdBoDbxtWP0-58UdM_Mshef8dvjyMJm67Bp6ZaCStVw6_TM4Ue3waUkf_HiA"
+		},
+		"user": {
+			"id": 1,
+			"name": "Nay Myo",
+			"email": "naymyo@gmail.com",
+			"phone_no": "09123456",
+			"space_id": "1",
+			"staff_id": "XANN029",
+			"device_id": "862966045891560",
+			"is_active": true,
+			"is_first_time_login": true,
+			"locations": [
+				{
+					"id": 1,
+					"name": "XAN",
+					"type": "OFFICE",
+					"radius": 100,
+					"latitude": 16.850683,
+					"is_active": true,
+					"longitude": 96.128638
+				},
+				{
+					"id": 2,
+					"name": "Abank",
+					"type": "CLIENT",
+					"radius": 100,
+					"latitude": 16.783665,
+					"is_active": true,
+					"longitude": 96.15501
+				}
+			]
+		}
+	}
+}

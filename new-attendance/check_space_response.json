@@ -1,0 +1,8 @@
+{
+	"status": "success",
+	"message": "get space successfully.",
+	"data": {
+		"id": 1,
+		"name": "XAN"
+	}
+}
