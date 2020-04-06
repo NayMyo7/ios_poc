@@ -1,0 +1,37 @@
+{
+	"status": "success",
+	"message": "Dashboard data is retrieved successful.",
+	"data": {
+		"check_in_status": true,
+		"check_out_status": false,
+		"locations": [
+			{
+				"id": 1,
+				"name": "XAN",
+				"type": "OFFICE",
+				"radius": 100,
+				"latitude": 16.850683,
+				"is_active": true,
+				"longitude": 96.128638
+			},
+			{
+				"id": 2,
+				"name": "Abank",
+				"type": "CLIENT",
+				"radius": 100,
+				"latitude": 16.783665,
+				"is_active": true,
+				"longitude": 96.15501
+			},
+			{
+				"id": 3,
+				"name": "My Home",
+				"type": "HOME",
+				"radius": 300,
+				"latitude": 16.783665,
+				"is_active": true,
+				"longitude": 96.15501
+			}
+		]
+	}
+}
