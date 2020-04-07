@@ -1,0 +1,7 @@
+{
+    "timestamp": "2020-04-07T10:51:47.624+0000",
+    "status": 404,
+    "error": "Not Found",
+    "message": "User not found with <UserId,DeviceId,SpaceId,LocationId> : <1,862966045891560,1,5>",
+    "path": "/api/v1/check-in"
+}

@@ -1,0 +1,7 @@
+{
+    "timestamp": "2020-04-07T11:04:57.777+0000",
+    "status": 400,
+    "error": "Bad Request",
+    "message": "Required Long parameter 'testId' is not present",
+    "path": "/api/v1/users/user-login"
+}
