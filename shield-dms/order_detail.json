@@ -1,0 +1,87 @@
+{
+	"status": "success",
+	"message": "Successfully retrieved.",
+	"data": {
+        "id": 120,
+        "orderNumber": "20201130-0053",
+        "collectId": 55,
+        "collectDate": "2020-11-22",
+        "deliveryDate": "2020-11-25",
+		"status": "Delivering",
+        "deliveryDateChangeReason": null,
+        "totalAmount": 10000,
+        "totalDeliveryFee": 2500,
+        "township": "Hlaing",
+        "customerName": "Sai Pann",
+        "customerImageUrl": "http://localhost:8080/api/v1/users/51/images",
+        "addressId": 101,
+        "shippingAddress": "Shop, 100, 4, 30 street, Thi Dar Aye, Hlaing, Yangon Region",
+        "paymentStatus": "COD",
+        "weight": null,
+        "overWeightFee": null,
+        "transportationType": null,
+        "destinationGateInfo": null,
+        "remark": "Extra description for the order within yangon.",
+        "items": [
+            {
+                "id": 130,
+                "name": "Package",
+                "quantity": 1,
+                "price": 10000,
+                "orderCategory": {
+                    "id": 1,
+                    "name": "Electronic"
+                }
+            }
+        ],
+        "shop": {
+            "id": 18,
+            "name": "Oot Poppy",
+			"rating": 4.5,
+            "phones": [
+                {
+                    "id": 16,
+                    "number": "09999999999",
+                    "isPrimary": true
+                },
+                {
+                    "id": 42,
+                    "number": "09987654322",
+                    "isPrimary": false
+                }
+            ],
+            "imageUrl": "http://localhost:8080/api/v1/shops/18/images"
+        },
+        "overWeight": false,
+        "isWithinCity": true,
+        "user": {
+            "id": 51,
+            "name": "Sai Pann",
+            "phones": [
+                {
+                    "id": 64,
+                    "number": "09252394544",
+                    "isPrimary": false
+                },
+                {
+                    "id": 106,
+                    "number": "09697627483",
+                    "isPrimary": false
+                }
+            ],
+            "imageUrl": "http://localhost:8080/api/v1/users/51/images"
+        },
+        "deliveryMan": {
+            "id": 2,
+            "name": "Kaung",
+            "phones": [
+                {
+                    "id": 127,
+                    "number": "09363636365",
+                    "isPrimary": true
+                }
+            ],
+            "imageUrl": null
+        }
+    }
+}

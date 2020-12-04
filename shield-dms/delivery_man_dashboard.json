@@ -1,0 +1,63 @@
+{
+	"status": "success",
+	"message": "Successfully retrieved.",
+	"data": [
+		{
+			"id": 3,
+			"type": "Delivery",
+			"date": "2020-05-08",
+			"latitude": 16.234234,
+			"longitude": 50.234598,
+			"township": "Dagon",
+			"order": {
+				"id": "8",
+				"orderNumber": "20201130-0053",
+				"status": "Confirmed",
+				"orderDate": "2020-05-08",
+				"totalAmount": 100000.0,
+				"customerId": "1",
+				"customerName": "Thaw",
+				"imgUrl": "http://www.blah.com",
+			},
+			"collect": null
+		},
+		{
+			"id": 4,
+			"type": "Collect",
+			"date": "2020-05-08",
+			"latitude": 16.234234,
+			"longitude": 50.234598,
+			"township": "Lanmadaw",
+			"order": null,
+			"collect": {
+				"id": "1",
+				"orderCount": 5,
+				"collectDate": "2020-05-08",
+				"orderDate": "2020-05-04",
+				"status": "Request",
+				"shopId": "2",
+				"shopName": "GG Online Shop",
+				"imgUrl": "http://www.blah.com",
+			}
+		}
+	]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
