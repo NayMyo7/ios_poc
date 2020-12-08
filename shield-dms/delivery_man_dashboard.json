@@ -17,7 +17,7 @@
 				"totalAmount": 100000.0,
 				"customerId": "1",
 				"customerName": "Thaw",
-				"imgUrl": "http://www.blah.com",
+				"imgUrl": "http://shield-dev-api.xan.com.mm/api/v1/users/1/images",
 			},
 			"collect": null
 		},
@@ -37,7 +37,7 @@
 				"status": "Request",
 				"shopId": "2",
 				"shopName": "GG Online Shop",
-				"imgUrl": "http://www.blah.com",
+				"imgUrl": "http://shield-dev-api.xan.com.mm/api/v1/users/1/images",
 			}
 		}
 	]

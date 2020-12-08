@@ -13,7 +13,7 @@
         "totalDeliveryFee": 2500,
         "township": "Hlaing",
         "customerName": "Sai Pann",
-        "customerImageUrl": "http://localhost:8080/api/v1/users/51/images",
+        "customerImageUrl": "http://shield-dev-api.xan.com.mm/api/v1/users/1/images",
         "addressId": 101,
         "shippingAddress": "Shop, 100, 4, 30 street, Thi Dar Aye, Hlaing, Yangon Region",
         "paymentStatus": "COD",
@@ -50,7 +50,7 @@
                     "isPrimary": false
                 }
             ],
-            "imageUrl": "http://localhost:8080/api/v1/shops/18/images"
+            "imageUrl": "http://shield-dev-api.xan.com.mm/api/v1/shops/5/images"
         },
         "overWeight": false,
         "isWithinCity": true,
@@ -69,7 +69,7 @@
                     "isPrimary": false
                 }
             ],
-            "imageUrl": "http://localhost:8080/api/v1/users/51/images"
+            "imageUrl": "http://shield-dev-api.xan.com.mm/api/v1/users/1/images"
         },
         "deliveryMan": {
             "id": 2,
