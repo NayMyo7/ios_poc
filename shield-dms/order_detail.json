@@ -1,13 +1,13 @@
 {
-	"status": "success",
-	"message": "Successfully retrieved.",
-	"data": {
+    "status": "success",
+    "message": "Successfully retrieved.",
+    "data": {
         "id": 120,
         "orderNumber": "20201130-0053",
         "collectId": 55,
         "collectDate": "2020-11-22",
         "deliveryDate": "2020-11-25",
-		"status": "Delivering",
+        "status": "Delivering",
         "deliveryDateChangeReason": null,
         "totalAmount": 10000,
         "totalDeliveryFee": 2500,
@@ -37,7 +37,7 @@
         "shop": {
             "id": 18,
             "name": "Oot Poppy",
-			"rating": 4.5,
+            "rating": 4.5,
             "phones": [
                 {
                     "id": 16,
